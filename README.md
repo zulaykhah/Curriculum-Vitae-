@@ -1,3 +1,3 @@
-Welcome on board
-
-Another changes
+print("Welcome to my Platform")
+user = input("Will love to know your name: ")
+print(user)
